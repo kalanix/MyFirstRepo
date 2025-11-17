@@ -1,0 +1,1 @@
+Something I've learned so far in this course is how Git enables version control and collaboration. I now understand commits, branches, forking, and pull requests—key skills for any developer or DevOps engineer.
