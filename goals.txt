@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+- Master Git and GitHub workflows
+- Complete all DevOps fundamentals
+- Contribute to open-source projects
+- Improve my scripting and automation skills
